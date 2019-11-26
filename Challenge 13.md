@@ -170,5 +170,5 @@ const lightsAreOn = true
       id: 5,
       on: false
   }
-  ]
-  ```
+]
+```
