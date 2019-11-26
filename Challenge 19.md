@@ -1,9 +1,9 @@
 # Challenge #19 - Pumpkin Spice and Everything Nice
 This is the Codeville Fall Festival, and nothing says fall more than pumpkin spice. At this year's festival, there will be three ways for the people of Codeville to get their pumpkin spice fix:
 
-1 Pumpkin pie
-2 Pumpkin spice lattes
-3 Pumpkin spice macarons
+1. Pumpkin pie
+2. Pumpkin spice lattes
+3. Pumpkin spice macarons
 
 ## Instructions
 Each item differs in both cost and the grams of pumpkin spice per serving. To help festival-goers maximize their pumpkin spice consumption, help them determine the maximum amount of pumpkin spice they can ingest with the amount of money they are bringing to the festival.
