@@ -18,5 +18,5 @@ const stations = [
 ];
 ```
 
-Output:
+### Output:
 `['Bright Lights Elementary', 'Moose Mountain Community Centre']`
