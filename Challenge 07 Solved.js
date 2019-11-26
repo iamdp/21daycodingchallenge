@@ -1,4 +1,3 @@
-
 const termTopics = (interviews) => {
   let count = [
                   0, // Smart City

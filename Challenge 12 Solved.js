@@ -1,4 +1,3 @@
-
 const checkAir = function (samples, threshold) {
   dirtyCounter = 0;
   

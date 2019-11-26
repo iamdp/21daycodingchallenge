@@ -1,7 +1,5 @@
-
 const voterTurnout = (voter_signatures, voter_ids) => {
   let result = "All clear, we can count the votes!";
-  
   if (voter_signatures.length !== voter_ids.length) {
     result = false;
   } else {

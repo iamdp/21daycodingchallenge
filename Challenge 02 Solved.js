@@ -1,5 +1,4 @@
 const interviewAnswer = (topic) => {
-  // Code here!
   switch(topic) {
   case "arts funding":
     return "We'll have to get creative!";
@@ -10,5 +9,4 @@ const interviewAnswer = (topic) => {
   default:
     return "QUACK!";
   }
-  // Remember to return a value!
 };

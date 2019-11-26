@@ -1,4 +1,3 @@
-
 const smartGarbage = (trash, bins) => {
   let updatedBins = bins;
   

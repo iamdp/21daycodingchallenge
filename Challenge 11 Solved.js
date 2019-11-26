@@ -1,4 +1,3 @@
-
 const busTimes = buses => {
   let busArrivalTimes = {};
   

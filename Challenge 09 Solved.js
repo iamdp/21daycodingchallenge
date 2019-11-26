@@ -1,4 +1,3 @@
-
 const carPassing = (cars, speed) => {
   updatedCars = cars;
   
